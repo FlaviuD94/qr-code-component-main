@@ -21,14 +21,14 @@ body {
   width: 20rem;
   height: auto;
   background-color: white;
-  border-radius: 15px;
-  padding: 15px;
+  border-radius: 12px;
+  padding: 16px;
   margin: 0.5rem 1rem;
 }
 
 .card__image {
   width: 100%;
-  border-radius: 15px;
+  border-radius: 12px;
 }
 
 .card__title {
